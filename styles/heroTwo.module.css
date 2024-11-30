@@ -1,0 +1,72 @@
+.heroTwo{
+width: 100%;
+/* border: 2px solid red; */
+padding: 2%;
+margin: 1%;
+text-align: justify;
+}
+.h1{
+font-size: 1.7em;
+line-height: 1.5;
+font-weight: 900;
+text-align: center;
+margin-bottom: 1em;
+color: #044e83;
+}
+.description{
+line-height: 1.5;
+padding: 1%;
+width: 100%;
+font-size: 1.3em;
+}
+
+.images{
+width: 95%;
+height: 50vh;
+/* border: 2px solid orange; */
+display: flex;
+margin:0% 2% 0% 3.6%   ;
+justify-content: space-evenly;
+}
+.imgBox{
+/* border: 2px solid green; */
+height: 100%;
+width: 32%;
+border-radius: 10px;
+box-shadow: 4px 4px 15px black;
+}
+.img{
+height: 100%;
+width: 100%;
+border-radius: 9px;
+
+
+}
+.Box{
+margin: 2%;
+display: flex;
+width: 65%;
+justify-content: space-evenly;
+}
+#h1{
+    padding-left:6% ;
+text-align:justify ;
+font-size: 1.7em;
+line-height: 1.5;
+font-weight: 900;
+margin-bottom: 1em;
+color: #044e83;
+}
+.Box2{
+    margin: 2%;
+    display: flex;
+    width: 100%;
+    justify-content: space-evenly;
+}
+.Box3{
+    margin: 2%;
+    display: flex;
+    width: 50%;
+    padding-left: 2.5%;
+    justify-content: space-evenly;
+}

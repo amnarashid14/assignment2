@@ -1,0 +1,67 @@
+
+.hero {
+background-image: url("/gh.jpeg");
+height: max-content;
+width: 100%;
+background-size: cover;
+background-repeat: no-repeat;
+}
+.subhero {
+width: 100%;
+background-color: #ffffffc0;
+height: max-content;
+display: flex;
+justify-content: space-evenly;
+}
+.main1{
+width: 50%;
+/* border: 2px solid black; */
+padding: 1.5%;
+}
+.h1{
+font-size: 4em;
+font-weight: 900;
+font-family: 'Arial black';
+color: #154c79;
+}
+.p1{
+    font-size: 2em;
+    padding-left:1.5% ;
+    color: #154c79;
+
+}
+
+.h3{
+font-size: 2.5em;
+font-weight: 900;
+color: #2eb6e8;
+}
+.p2{
+letter-spacing: 1px;
+font-weight: 900;
+font-size: 1.2em;
+line-height: 2.5;
+color: #154c79;
+}
+.button{
+width: 10em;
+font-weight: 900;
+background-color: #154c79;
+color: #ffffff;
+margin-top: 1em;
+border-radius: 8px;
+letter-spacing: 1px;
+padding: 1em 0em 1em 0em;
+text-transform: uppercase;
+}
+
+.button:hover{
+transform: translate(0px, 15%);}
+.main2{
+margin-top: 2em;
+
+margin-left:9em;
+height:50% ;
+width: 35%;
+/* border: 2px solid red; */
+}

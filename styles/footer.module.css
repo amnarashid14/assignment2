@@ -1,0 +1,27 @@
+.footer {
+    background-color:#f4f4f5;
+    display: flex;
+    justify-content: space-between;
+    padding: 8%;
+}
+.h1{
+font-weight: 700;
+font-size: 1.4em;
+
+}
+.box_one , .box_two , .box_three{
+line-height: 2.5;
+}
+
+.icon_box{
+display: flex;
+margin-bottom: 1em;
+}
+.icons{
+font-size: 1.8em;
+margin-right: 0.4em;
+}
+.mail_box{
+display: flex;
+margin-top: 1.6em;
+}
